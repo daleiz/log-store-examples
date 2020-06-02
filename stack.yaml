@@ -66,7 +66,7 @@ packages:
 # compiler-check: newer-minor
 extra-deps:
 - github: daleiz/rocksdb-haskell
-  commit: 34cb367d4dae0de50e3aa959d2cce1f644554952
+  commit: 33faa6a2659b5bab6054647ed51c73716761b449
 - github: daleiz/log-store
-  commit: 446bdca2cd1b2c333076f992cfb89e103d1c8341
+  commit: 3c42d05f72642b63d98bb4d9facb07531b926fd6
 
